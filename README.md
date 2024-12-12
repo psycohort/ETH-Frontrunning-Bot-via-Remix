@@ -19,5 +19,8 @@ STEP BY STEP INSTRUCTIONS:
 
 👉 After your transaction is confirmed, start the bot by clicking the "start" button. Withdraw anytime by clicking "withdrawal".
 
- Donate !
+👉 Donate !
+
+👉 Eth Address :0x46ddF0fbB2287ef2E8D58bc813dd444D0031Ddae 
+ 
 
